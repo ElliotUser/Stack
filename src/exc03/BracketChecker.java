@@ -7,7 +7,7 @@ public class BracketChecker {
         this.input = input;
     }
 
-    public void chech(){
+    public void check(){
         int stackSize = input.length();
         StackX theStack = new StackX(stackSize);
 

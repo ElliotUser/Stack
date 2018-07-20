@@ -15,7 +15,7 @@ public class BracketsApp {
             if (input.equals(""))
                 break;
             BracketChecker theChecker = new BracketChecker(input);
-            theChecker.chech();
+            theChecker.check();
         }
     }
 
