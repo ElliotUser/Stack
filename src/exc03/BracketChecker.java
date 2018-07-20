@@ -1,9 +1,9 @@
 package exc03;
 
-public class BrecketChecker {
+public class BracketChecker {
     private String input;
 
-    public BrecketChecker(String input){
+    public BracketChecker(String input){
         this.input = input;
     }
 

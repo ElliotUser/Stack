@@ -14,7 +14,7 @@ public class BracketsApp {
             input = getString();
             if (input.equals(""))
                 break;
-            BrecketChecker theChecker = new BrecketChecker(input);
+            BracketChecker theChecker = new BracketChecker(input);
             theChecker.chech();
         }
     }
